@@ -1,0 +1,4 @@
+The median values of
+a: -0.008,  b:  3.715, c: 18.945
+The one sigma uncertainties of
+a:(- 0.001,+ 0.001), b:(- 0.319,+ 0.314), c:(- 26.201,+ 27.095)
