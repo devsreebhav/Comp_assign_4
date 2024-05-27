@@ -1,0 +1,4 @@
+For observed counts  1 , numbers are:
+Not sufficiently random
+For observed counts  2 , numbers are:
+Not sufficiently random
