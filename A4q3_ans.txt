@@ -1,0 +1,2 @@
+
+Time taken to generate 10000 random numbers using rand function: 0.0026102066040039062 seconds
